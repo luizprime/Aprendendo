@@ -3,5 +3,5 @@
 > Status: Aprendendo primeira parte
 
 ```
-testando
+node app.js
 ```
